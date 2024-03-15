@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Olá, meu nome é {Edson Rego}!
+## Hello, my name is {Edson Rego}!
 
 ### ⚙️ GitHub Analytics
 
