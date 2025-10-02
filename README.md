@@ -52,7 +52,7 @@
 ### 📫 Connect with me
 <p align="center">
   <!-- LinkedIn corrigido para o seu perfil informado -->
-  <a href="https://www.linkedin.com/in/edson-rego-1b086216a/">
+  <a href="https://www.linkedin.com/in/edson-rego-1b086216a/?locale=en_US">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <!-- Email é placeholder: substitua pelo seu se quiser -->
