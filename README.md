@@ -64,7 +64,7 @@
 ### 📍 Profile Visitor Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/edsonrego/count.svg" alt="Número de visitantes no perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=edsonrego&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
